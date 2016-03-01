@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DungeonsOfDoom01.AlternativeGamePresenter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>AlternativeGamePresenter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DungeonsOfDoom01.Character" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAiAAAAIAAAAAEAAAAAAAIAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>GameObject\Character\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Game" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAEAACAwAAIAAAIGAAAAAAAgIAABAAAAACAAAAA=</HashCode>
+      <FileName>Game\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.GameObject" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Goblin" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Character\Monster\Goblin\Goblin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.HealthCare" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Item\HealthCare\HealthCare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Item" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Knife" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Item\Weapon\Knife\Knife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Monster" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Character\Monster\Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Orc" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Character\Monster\Orc\Orc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Player" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAIAAAAEAIAAAAAAAAAAAAAAAAAAAAEYAA=</HashCode>
+      <FileName>GameObject\Character\Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Potion" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Item\HealthCare\Potion\Potion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Program" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Room" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Room\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.StandardGamePresenter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>StandardGamePresenter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DungeonsOfDoom01.Sword" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Item\Weapon\Sword\Sword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Water" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Item\HealthCare\Water\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom01.Weapon" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject\Item\Weapon\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DungeonsOfDoom01.IGamePresenter" Collapsed="true">
+    <Position X="16.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGamePresenter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
